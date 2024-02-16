@@ -1,5 +1,5 @@
-Single Channel LoRaWAN Gateway for PI Zero W or PI Zero WH
-==========================================================
+Single Channel LoRaWAN Gateway for PI Zero W or PI Zero WH or PI ZERO 2WH
+=========================================================================
 Recommend Raspbain for PI4: Raspberry PI OS (Legacy,64-bit) Full Bullseye Released 2023-12-05
 
 This repository contains a proof-of-concept implementation of a single
