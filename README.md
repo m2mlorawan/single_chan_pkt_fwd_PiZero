@@ -1,9 +1,9 @@
 Single Channel LoRaWAN Gateway for PI Zero W or PI Zero WH or PI ZERO 2WH
 =========================================================================
-Recommend Raspbain for PI4: Raspberry PI OS (Legacy,64-bit) Full Bullseye Released 2023-12-05
+Recommend Raspbain Raspberry PI OS (Legacy,64-bit) Full Bullseye Released 2023-12-05
 
 This repository contains a proof-of-concept implementation of a single
-channel LoRaWAN gateway. Work with RPI4B, RPI3B, RPI0W.
+channel LoRaWAN gateway. Work with PI Zero W or PI Zero WH or PI ZERO 2WH.
 
 It has been tested on the Raspberry Pi platform, using a Semtech SX1272
 transceiver (HopeRF RFM92W), and SX1276 (HopeRF RFM95W).
@@ -134,8 +134,8 @@ Install dependencies as indicated in original README.md below then
 
 ```shell
 cd /home/pi
-git clone https://github.com/m2mlorawan/single_chan_pkt_fwd
-cd single_chan_pkt_fwd
+git clone https://github.com/m2mlorawan/single_chan_pkt_fwd_PiZero
+cd single_chan_pkt_fwd_PiZero
 make
 sudo make install
 ````
